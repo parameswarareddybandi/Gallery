@@ -29,6 +29,8 @@
 
 #gallery {
   margin: 100px 0;
+  height : 100vh;
+  overflow-y : scroll;
 }
 
 .box {
