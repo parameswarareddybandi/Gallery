@@ -29,7 +29,6 @@
 
 #gallery {
   margin: 100px 0;
-  height : 50vh;
   overflow-y : scroll;
 }
 
